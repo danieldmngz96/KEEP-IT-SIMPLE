@@ -1,0 +1,46 @@
+.position__img--step{
+    padding-top: 50%;
+    padding-bottom: 20%;
+}
+#name{
+    width: 96%;
+    border-radius: 11px;
+    border: 1px solid #000;
+}
+.label__name{
+    background: #fff;
+    position: relative;
+    bottom: -8px;
+    left: 22px;
+}
+.btn__step{
+    background-image: url(../img/button.png);
+width: 50%;
+height: 56px;
+background-color: #fff;
+border: 0px;
+color: #fff;
+background-repeat: no-repeat;
+padding-right: 0%;
+margin-left: 25%;
+margin-top: 40% !important;
+margin-left: 25%;
+margin-right: 25%;
+}
+.step {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbbbbb;
+    border: none;
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.5;
+  }
+.active{
+    background-color: #000000;
+}
+.text__step--next{
+    margin-left: 0%;
+    margin-top: 0%;
+}

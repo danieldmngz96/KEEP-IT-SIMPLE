@@ -1,0 +1,21 @@
+@media screen and (max-width: 800px) {
+    .margin{
+        margin: 0px 0% 0px 0%;
+    }
+    .btn__registry {
+        background-image: url(../img/button.png);
+        width: 55%;
+        height: 56px;
+        background-color: #fff;
+        border: 0px;
+        color: #fff;
+        background-repeat: no-repeat;
+        padding-right: 0%;
+        margin-left: 17%;
+        margin-top: 40%;
+        margin-right: 20%;
+    }
+    .btn__step{
+        width: 100%;
+    }
+  }

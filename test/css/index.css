@@ -1,0 +1,34 @@
+.margin{
+        margin: 0px 35% 0px 31%;
+}
+.position__img--keep{
+    padding-top: 18%;
+    padding-bottom: 10%;
+}
+.text__welcome{
+    line-height: 17px;
+}
+.position__img--welcome{
+    width: 55%;
+    padding-top: 19px;
+    margin-left: 65px;
+    padding-bottom: 29px;
+
+}
+.text__welcome1{
+    text-align: center;
+    line-height: 20px;
+    font-size: 14px;
+    padding-bottom: 25%;
+}
+.btn__registry{
+    background-image: url(../img/button.png);
+    width: 76%;
+    height: 56px;
+    background-color: #fff;
+    border: 0px;
+    color: #fff;
+    margin-left: 23%;
+    background-repeat: no-repeat;
+    padding-right: 27%;
+}
