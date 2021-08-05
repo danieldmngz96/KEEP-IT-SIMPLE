@@ -54,7 +54,7 @@
 
 
 
-      <button class="btn__step" type="submit"> <p class="text__step--next">Enviar ✔ </p> </button>
+     <a href="./finally.php"> <button class="btn__step" type="submit"> <p class="text__step--next">Enviar ✔ </p> </button></a>
       <div style="text-align:center;margin-top:40px;">
         <span class="step"></span>
         <span class="step"></span>
